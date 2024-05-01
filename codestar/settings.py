@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
+    'cloudinary_storage',
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
@@ -52,6 +53,7 @@ INSTALLED_APPS = [
     'crispy_bootstrap5',
     'blog',
     'django_summernote',
+    'cloudinary',
     'about',
 ]
 
